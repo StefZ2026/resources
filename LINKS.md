@@ -1,0 +1,14 @@
+# Published resources (manifest) — never lose a URL again
+
+| Asset | Live URL | Type | Added |
+|---|---|---|---|
+| Claude Skills Starter Pack | https://get.zuckerdigital.com/pdf/claude-skills-starter-pack.pdf | PDF lead magnet | 2026-07-25 |
+
+> While DNS for get.zuckerdigital.com propagates, the same file is also at:
+> https://stefz2026.github.io/resources/pdf/claude-skills-starter-pack.pdf
+
+## How to publish a new resource (SOP)
+1. Drop the file in `/pdf/` (lead magnets) or `/p/` (prompts as HTML pages), kebab-case name.
+2. Commit + push (or Contents API).
+3. Live URL = `https://get.zuckerdigital.com/<folder>/<slug>`.
+4. Add a row to this table with the URL + date.
