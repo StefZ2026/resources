@@ -3,6 +3,7 @@
 | Asset | Live URL | Type | Added |
 |---|---|---|---|
 | Claude Skills Starter Pack | https://get.zuckerdigital.com/pdf/claude-skills-starter-pack.pdf | PDF lead magnet | 2026-07-25 |
+| Objective Execution Mode prompt (keyword PROMPT) | https://get.zuckerdigital.com/prompt.pdf | PDF lead magnet (also at /pdf/objective-execution-mode-prompt.pdf) | 2026-08-05 |
 | ZD Breakthrough grant application video | https://get.zuckerdigital.com/v/zdb-grant-9f4c1a7e63b2.mp4 | MP4 (unlisted, noindex) | 2026-08-04 |
 
 > While DNS for get.zuckerdigital.com propagates, the same file is also at:
