@@ -7,6 +7,7 @@
 | ZD Breakthrough grant application video | https://get.zuckerdigital.com/v/zdb-grant-9f4c1a7e63b2.mp4 | MP4 (unlisted, noindex) | 2026-08-04 |
 | Edit video with Claude Code + Remotion (keyword EDIT) | https://get.zuckerdigital.com/edit | HTML guide with copy buttons + PDF at /pdf/edit-video-with-claude-code.pdf | 2026-08-07 |
 | ChatGPT Selfie Prompt (keyword SELFIE) | https://get.zuckerdigital.com/pdf/chatgpt-selfie-prompt.pdf | PDF lead magnet | 2026-08-06 |
+| The Scariest ChatGPT Prompt (keyword EXPOSED) | https://get.zuckerdigital.com/pdf/scariest-chatgpt-prompt.pdf | PDF lead magnet | 2026-08-07 |
 
 > While DNS for get.zuckerdigital.com propagates, the same file is also at:
 > https://stefz2026.github.io/resources/pdf/claude-skills-starter-pack.pdf
