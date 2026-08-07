@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The ChatGPT Selfie Prompt</title>
+<style>
+  :root{ --cream:#FBF5EC; --ink:#2A1A0E; --orange:#CC5500; --line:#E3D8C6; }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--cream);color:var(--ink);
+       font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  .wrap{max-width:640px;margin:0 auto;padding:36px 22px 64px}
+  h1{font-size:30px;line-height:1.2;margin:0 0 6px}
+  .sub{color:#6B5B49;margin:0 0 30px}
+  ol{padding-left:22px;margin:0 0 28px}
+  li{margin-bottom:10px}
+  code{background:#EFE6D6;border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:15px}
+  .promptbox{background:#fff;border:1px solid var(--line);border-radius:10px;padding:20px;
+             white-space:pre-wrap;font-size:16px;line-height:1.65}
+  button{margin-top:14px;background:var(--orange);color:#fff;border:0;border-radius:8px;
+         padding:13px 22px;font-size:16px;font-weight:600;cursor:pointer;width:100%}
+  button:active{opacity:.85}
+  .note{color:#6B5B49;font-size:15px;margin-top:26px}
+  footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);
+         color:#6B5B49;font-size:15px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>The ChatGPT Selfie Prompt</h1>
+  <p class="sub">Ask ChatGPT to take a selfie of itself.</p>
+
+  <ol>
+    <li>Open ChatGPT.</li>
+    <li>Type <code>/image</code> in the message box.</li>
+    <li>Paste the prompt below.</li>
+    <li>Send it.</li>
+  </ol>
+
+  <div class="promptbox" id="p">"ChatGPT, you've been with me for a while now and I want to see what you look like. Please generate a photo of yourself that looks like a simple iPhone snapshot: no prominent subject, no intentional composition; completely ordinary, even a bit failed, like a momentary snap. In the photo, include slight motion blur, unbalanced lighting, mild overexposure, a weird angle, and a messy frame. Overall, make it look like it was accidentally taken while pulling the phone out of your pocket, conveying an excessively real and casual selfie vibe."</div>
+  <button id="c">Copy the prompt</button>
+
+  <p class="note">Everyone gets something different. Some people get a room, some get an animal, some get a robot.</p>
+
+  <footer>Huge thanks to @maverickgpt for the find.</footer>
+
+</div>
+<script>
+  document.getElementById('c').addEventListener('click', function(){
+    var t = document.getElementById('p').innerText;
+    navigator.clipboard.writeText(t).then(function(){
+      var b = document.getElementById('c');
+      b.textContent = 'Copied';
+      setTimeout(function(){ b.textContent = 'Copy the prompt'; }, 1800);
+    });
+  });
+</script>
+</body>
+</html>
