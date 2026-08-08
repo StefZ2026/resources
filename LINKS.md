@@ -8,6 +8,7 @@
 | Edit video with Claude Code + Remotion (keyword EDIT) | https://get.zuckerdigital.com/edit | HTML guide with copy buttons + PDF at /pdf/edit-video-with-claude-code.pdf | 2026-08-07 |
 | ChatGPT Selfie Prompt (keyword SELFIE) | https://get.zuckerdigital.com/pdf/chatgpt-selfie-prompt.pdf | PDF lead magnet | 2026-08-06 |
 | The Scariest ChatGPT Prompt (keyword EXPOSED) | https://get.zuckerdigital.com/pdf/scariest-chatgpt-prompt.pdf | PDF lead magnet | 2026-08-07 |
+| The CARE prompt template (keyword CARE) | https://get.zuckerdigital.com/pdf/care-prompt-template.pdf | Fill-in-the-blank CARE prompt template. Framework by Sabrina Ramonov | 2026-08-08 |
 
 > While DNS for get.zuckerdigital.com propagates, the same file is also at:
 > https://stefz2026.github.io/resources/pdf/claude-skills-starter-pack.pdf
