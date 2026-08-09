@@ -18,3 +18,5 @@
 2. Commit + push (or Contents API).
 3. Live URL = `https://get.zuckerdigital.com/<folder>/<slug>`.
 4. Add a row to this table with the URL + date.
+
+| /model/ | The 4 Questions - how to read any viral account | Expert Post 26, keyword MODEL | 2026-08-09 |
