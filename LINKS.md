@@ -10,6 +10,7 @@
 | The Scariest ChatGPT Prompt (keyword EXPOSED) | https://get.zuckerdigital.com/pdf/scariest-chatgpt-prompt.pdf | PDF lead magnet | 2026-08-07 |
 | The CARE prompt template (keyword CARE) | https://get.zuckerdigital.com/pdf/care-prompt-template.pdf | Fill-in-the-blank CARE prompt template. Framework by Sabrina Ramonov | 2026-08-08 |
 | Build your Voice DNA (keyword DNA) | https://get.zuckerdigital.com/voice-dna | HTML guide with both prompts + PDF at /pdf/voice-dna.pdf. Framework by Alicia Lyttle | 2026-08-22 |
+| 25 ChatGPT Prompt Shortcuts (keyword LIST) | https://get.zuckerdigital.com/pdf/chatgpt-prompt-shortcuts.pdf | PDF lead magnet. Original idea by @maverickgpt. | 2026-08-29 |
 
 > While DNS for get.zuckerdigital.com propagates, the same file is also at:
 > https://stefz2026.github.io/resources/pdf/claude-skills-starter-pack.pdf
