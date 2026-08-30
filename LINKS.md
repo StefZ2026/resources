@@ -1,4 +1,4 @@
-# Published resources (manifest) — never lose a URL again
+# Published resources (manifest) â€” never lose a URL again
 
 | Asset | Live URL | Type | Added |
 |---|---|---|---|
@@ -11,6 +11,7 @@
 | The CARE prompt template (keyword CARE) | https://get.zuckerdigital.com/pdf/care-prompt-template.pdf | Fill-in-the-blank CARE prompt template. Framework by Sabrina Ramonov | 2026-08-08 |
 | Build your Voice DNA (keyword DNA) | https://get.zuckerdigital.com/voice-dna | HTML guide with both prompts + PDF at /pdf/voice-dna.pdf. Framework by Alicia Lyttle | 2026-08-22 |
 | 25 ChatGPT Prompt Shortcuts (keyword LIST) | https://get.zuckerdigital.com/pdf/chatgpt-prompt-shortcuts.pdf | PDF lead magnet. Original idea by @maverickgpt. | 2026-08-29 |
+| The ChatGPT Humanizer Prompt (keyword HUMAN) | https://get.zuckerdigital.com/pdf/chatgpt-humanizer-prompt.pdf | PDF lead magnet. Writing-style prompt. Original prompt by @sabrina_ramonov. Replaces a dead paste.rs link. | 2026-08-29 |
 
 > While DNS for get.zuckerdigital.com propagates, the same file is also at:
 > https://stefz2026.github.io/resources/pdf/claude-skills-starter-pack.pdf
