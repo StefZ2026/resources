@@ -13,6 +13,7 @@
 | 25 ChatGPT Prompt Shortcuts (keyword LIST) | https://get.zuckerdigital.com/pdf/chatgpt-prompt-shortcuts.pdf | PDF lead magnet. Original idea by @maverickgpt. | 2026-08-29 |
 | The ChatGPT Humanizer Prompt (keyword HUMAN) | https://get.zuckerdigital.com/pdf/chatgpt-humanizer-prompt.pdf | PDF lead magnet. Writing-style prompt. Original prompt by @sabrina_ramonov. Replaces a dead paste.rs link. | 2026-08-29 |
 | Tree of Thought: Three Prompts and a Worked Example (keyword TREE) | https://get.zuckerdigital.com/pdf/tree-of-thought-prompt-guide.pdf | PDF lead magnet, 5pp. Three-step technique by @sabrina_ramonov; guide + worked example by Stefanie Zucker. | 2026-09-26 |
+| The Updated Claude Truth Prompt (keyword TRUTH) | https://get.zuckerdigital.com/pdf/claude-truth-prompt-guide.pdf | PDF lead magnet, 5pp. Revised prompt concept by @maverickgpt; Claude adaptation, tests, limitations, and source notes by Stefanie Zucker. | 2026-10-09 |
 
 > While DNS for get.zuckerdigital.com propagates, the same file is also at:
 > https://stefz2026.github.io/resources/pdf/claude-skills-starter-pack.pdf
