@@ -25,3 +25,4 @@
 4. Add a row to this table with the URL + date.
 
 | /model/ | The 4 Questions - how to read any viral account | Expert Post 26, keyword MODEL | 2026-08-09 |
+| /website/ | Stunning websites with Claude Code - the full setup guide | Maverick "Claude killed website designers", keyword WEBSITE | 2026-10-17 |
