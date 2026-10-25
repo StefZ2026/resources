@@ -11,6 +11,7 @@
 | The CARE prompt template (keyword CARE) | https://get.zuckerdigital.com/pdf/care-prompt-template.pdf | Fill-in-the-blank CARE prompt template. Framework by Sabrina Ramonov | 2026-08-08 |
 | Build your Voice DNA (keyword DNA) | https://get.zuckerdigital.com/voice-dna | HTML guide with both prompts + PDF at /pdf/voice-dna.pdf. Framework by Alicia Lyttle | 2026-08-22 |
 | 25 ChatGPT Prompt Shortcuts (keyword LIST) | https://get.zuckerdigital.com/pdf/chatgpt-prompt-shortcuts.pdf | PDF lead magnet. Original idea by @maverickgpt. | 2026-08-29 |
+| 200 ChatGPT Image Codes (keyword PLUGIN) | https://get.zuckerdigital.com/pdf/chatgpt-image-codes-200-shortcuts.pdf | PDF lead magnet. Original guide by @maverickgpt, shared unchanged with credit. | 2026-10-25 |
 | The ChatGPT Humanizer Prompt (keyword HUMAN) | https://get.zuckerdigital.com/pdf/chatgpt-humanizer-prompt.pdf | PDF lead magnet. Writing-style prompt. Original prompt by @sabrina_ramonov. Replaces a dead paste.rs link. | 2026-08-29 |
 | Tree of Thought: Three Prompts and a Worked Example (keyword TREE) | https://get.zuckerdigital.com/pdf/tree-of-thought-prompt-guide.pdf | PDF lead magnet, 5pp. Three-step technique by @sabrina_ramonov; guide + worked example by Stefanie Zucker. | 2026-09-26 |
 | The Updated Claude Truth Prompt (keyword TRUTH) | https://get.zuckerdigital.com/pdf/claude-truth-prompt-guide.pdf | PDF lead magnet, 5pp. Revised prompt concept by @maverickgpt; Claude adaptation, tests, limitations, and source notes by Stefanie Zucker. | 2026-10-09 |
