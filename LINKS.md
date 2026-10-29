@@ -28,3 +28,4 @@
 
 | /model/ | The 4 Questions - how to read any viral account | Expert Post 26, keyword MODEL | 2026-08-09 |
 | /website/ | Stunning websites with Claude Code - the full setup guide | Maverick "Claude killed website designers", keyword WEBSITE | 2026-10-17 |
+| /100-codes/ | 100 Secret Codes to Learn Anything (Post 101, keyword CODES); original interactive page and latest v4 PDF at /pdf/100-secret-codes.pdf | 2026-10-29 |
